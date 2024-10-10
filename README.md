@@ -15,11 +15,6 @@ You can click the Preview link to take a look at your changes.
 {CLI commands}(docs/cli.md)
 
 
-I love to sing and play games. 
-
-Cat lets you see the documents
-
-Ls gives you list of documents
 
 This is part of lab 6
 
